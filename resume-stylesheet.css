@@ -1,8 +1,14 @@
 body {
 	height: 100%;
 	margin: 0;
-	text-align: center;
+	text-align: left;
 	width: 100%;
+}
+
+#nameAddress{
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #767171;
+	padding: 100px;
 }
 
 #address {
