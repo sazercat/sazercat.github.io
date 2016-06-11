@@ -1,0 +1,20 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+}
+
+.address{
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	/* color is light grey that is standard*/
+	font-size: 25px
+	color: #767171;
+}
+
+h1 {
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 56px
+
+	color: #C45811;
+}
