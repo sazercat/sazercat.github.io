@@ -1,7 +1,6 @@
 body {
+	background-color: #767171;
 	font-family: 'Arial', Helvetica, sans-serif;
-	height: 100%;
-	margin: 0;
 	text-align: left;
 	width: 100%;
 }
@@ -9,6 +8,8 @@ body {
 #container{
 	width: 1000px
 	color: #C45811;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #name{
@@ -26,27 +27,32 @@ body {
 #address{
 	font-family: 'Arial', Helvetica, sans-serif;
 	/* color is light grey that is standard*/
-	font-size: 25px
+	font-size: 25px;
 	color: #767171;
 
 }
 
 #email{
-	margin-left: 5px
+	margin-left: 5px;
 
+}
+
+#photo{
+	float: right;
+	margin: 0, 0, 10px, 10px;
 }
 
 #personal{
-	
+
 }
 
 #experience {
-	font-size: 20px
+	font-size: 20px;
 }
 
 h1 {
 	font-family: 'Arial', Helvetica, sans-serif;
-	font-size: 56px
+	font-size: 56px;
 
 	color: #C45811;
 }
