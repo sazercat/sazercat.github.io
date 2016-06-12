@@ -40,6 +40,8 @@ body {
 #photo{
 	float: right;
 	margin: 0, 0, 10px, 10px;
+	width: 200px
+	height: 200px;
 }
 
 #personal{
@@ -48,6 +50,7 @@ body {
 
 #experience {
 	font-size: 20px;
+	color: #767171;
 }
 
 h1 {
