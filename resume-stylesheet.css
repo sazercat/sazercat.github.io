@@ -1,11 +1,17 @@
 body {
+	font-family: 'Arial', Helvetica, sans-serif;
 	height: 100%;
 	margin: 0;
 	text-align: left;
 	width: 100%;
 }
 
-.nameAddress{
+#container{
+	width: 1000px
+	color: #C45811;
+}
+
+#name{
 	margin-top: 25px;
 	margin-left: 25px;
 	margin-right: 195px;
@@ -17,14 +23,24 @@ body {
 	padding: 100px;
 }
 
-.address {
+#address{
 	font-family: 'Arial', Helvetica, sans-serif;
 	/* color is light grey that is standard*/
 	font-size: 25px
 	color: #767171;
+
 }
 
-.experience {
+#email{
+	margin-left: 5px
+
+}
+
+#personal{
+	
+}
+
+#experience {
 	font-size: 20px
 }
 
