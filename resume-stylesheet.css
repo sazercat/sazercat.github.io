@@ -8,7 +8,7 @@ body {
 
 #container{
 	width: 1000px
-	color: #C45811;
+	color: #767171;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -57,7 +57,7 @@ img.resize{
 }
 
 #personal{
-	margin-left: 325px;
+	margin-right: 325px;
 
 
 }
@@ -96,7 +96,7 @@ h1 {
 
 .description{
 	margin-bottom: 22px;
-	margin-left: 325px;
+	margin-right: 325px;
 
 }
 
