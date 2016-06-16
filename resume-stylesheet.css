@@ -13,7 +13,7 @@ h3{
 }
 
 h4{
-	color: #C45811;
+	color: #767171;
 	margin: 2px, 325px, 8px, 0px;
 }
 
@@ -85,15 +85,15 @@ img.resize{
 
 }
 
-.main.company{
+.company{
 	margin-bottom: 4px;
 }
 
-.main.jobTitle{
+.jobTitle{
 	margin-bottom: 12px;
 }
 
-.main.description{
+.description{
 	margin-bottom: 22px;
 	margin-right: 325px;
 
