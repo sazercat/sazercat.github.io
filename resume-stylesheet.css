@@ -21,7 +21,7 @@ body {
 	padding: 10px, 150px, 10px, 150px
 
 	font-family: 'Arial', Helvetica, sans-serif;
-	color: #767171;
+	color: #C45811;
 	padding: 100px;
 }
 
@@ -42,8 +42,8 @@ body {
 	float: right;
 	clear: right;
 	padding: 10px, 10px, 10px, 10px;
-	width: 50px
-	height: 50px;
+	width: 100px
+	height: 100px;
 	border-color: #767171;
 	border: 1px;
 }
@@ -57,6 +57,8 @@ img.resize{
 }
 
 #personal{
+	margin-left: 325px;
+
 
 }
 
@@ -94,6 +96,8 @@ h1 {
 
 .description{
 	margin-bottom: 22px;
+	margin-left: 325px;
+
 }
 
 
