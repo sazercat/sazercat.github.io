@@ -39,10 +39,19 @@ body {
 
 #photo{
 	float: right;
-	margin: 0, 0, 10px, 10px;
+	clear: right;
+	margin: 20, 20, 20px, 20px;
 	padding: 10px, 10px, 10px, 10px;
 	width: 50px
 	height: 50px;
+}
+
+img.resize{
+	width: 100%;
+	height: auto;
+
+}
+
 }
 
 #personal{
@@ -51,7 +60,8 @@ body {
 
 #experience {
 	font-size: 20px;
-	color: #767171;
+	color: #767171
+	margin-bottom: 32px;
 }
 
 h1 {
@@ -67,13 +77,19 @@ h1 {
 
 }
 
-.jobs h5 {
-	padding: 2px, 10px, 4px, 2px;
+
+.company{
+	margin-bottom: 12px;
 }
 
-.jobs h4 {
-	padding: 2px, 10px, 4px, 2px;
+.jobTitle{
+	margin-bottom: 22px;
 }
+
+.description{
+	margin-bottom: 30px;
+}
+
 
 
 
