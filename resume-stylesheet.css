@@ -7,6 +7,17 @@ body {
 	width: 100%;
 }
 
+h3{
+	color: #C45811;
+	margin: 10px, 325px, 0px, 0px
+}
+
+h4{
+	color: #C45811;
+	margin: 2px, 325px, 8px, 0px
+}
+
+}
 
 #container{
 	width: 1000px
@@ -65,7 +76,7 @@ img.resize{
 
 
 .mainheader{
-	margin-bottom: 4px
+	margin-bottom: 4px;
 	color: #C45811;
 
 }
