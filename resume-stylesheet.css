@@ -88,10 +88,13 @@ img.resize{
 
 .company{
 	margin-bottom: 4px;
+	float: left;
+	
 }
 
 .jobTitle{
 	margin-bottom: 12px;
+	float: right;
 }
 
 .description{
