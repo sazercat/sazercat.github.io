@@ -47,7 +47,7 @@ h5{
 	float: right;
 	clear: right;
 	padding: 10px, 10px, 10px, 10px;
-	width: 100px
+	width: 100px;
 	height: 100px;
 	border-color: #767171;
 	border: 1px;
@@ -88,13 +88,11 @@ img.resize{
 
 .company{
 	margin-bottom: 4px;
-	float: left;
 	
 }
 
 .jobTitle{
 	margin-bottom: 12px;
-	float: right;
 }
 
 .description{
