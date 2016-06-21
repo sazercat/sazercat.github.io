@@ -10,24 +10,24 @@ body {
 h3{
 	color: #C45811;
 	margin: 10px, 325px, 0px, 0px;
-	padding: 10px, 150px, 10px, 150px
+	padding: 10px, 150px, 10px, 150px;
 }
 
 h4{
 	color: #767171;
 	margin: 2px, 325px, 8px, 0px;
-	padding: 10px, 150px, 10px, 150px
+	padding: 10px, 150px, 10px, 150px;
 }
 
 h5{
 	font-weight: bold;
-	padding: 10px, 150px, 10px, 150px
+	padding: 10px, 150px, 10px, 150px;
 }
 
 }
 
 #container{
-	width: 1000px
+	width: 1000px;
 	color: #767171;
 	margin-right: auto;
 	margin-left: auto;
